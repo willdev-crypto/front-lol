@@ -37,4 +37,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issue
 Licença
 Este projeto está licenciado sob a Licença MIT.
 
-Você pode personalizar este README conforme necessário, adicionando mais detalhes sobre o projeto, instruções de uso, capturas de tela, entre outros. Certifique-se de manter as informações atualizadas e relevantes para os usuários e colaboradores do seu projeto.
+
