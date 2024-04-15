@@ -77,6 +77,13 @@ async function resetForm() {
   state.views.response.textContent = "pode vir";
 }
 
+async function fetchAskChampion(){
+  const id = state.views.avatar.dataset.id;
+  const message = state.views.question.value;
+  const response = await apiService.postAskChampion(id,message);
+  state.views.response.textContent=response.answer;
+}
+
 async function loadCarrousel() {
   const caroujs = (el) => {
     return $("[data-js=" + el + "]");
