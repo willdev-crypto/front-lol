@@ -25,9 +25,8 @@ Inicie a aplicação:
 sql
 Copy code
 npm start
-Acesse a aplicação em seu navegador utilizando o seguinte URL:
-arduino
-Copy code
+
+
 http://localhost:8080
 Certifique-se de configurar corretamente as variáveis de ambiente e as credenciais necessárias para acessar a API REST e a API do Chat OpenAI.
 
